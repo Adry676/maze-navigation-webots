@@ -85,8 +85,8 @@ text
 ## 🚀 Quick Start
 
 ### Prerequisites
-- **Webots R2024a** or later (download: [webots.org](https://cyberbotics.com/))
-- **Python 3.7+**
+- **Webots R2025a** or later (download: [webots.org](https://cyberbotics.com/))
+- **Python 3.14**
 
 ### Installation
 
@@ -229,35 +229,6 @@ text
 - [x] Odometry tracking verified (visual inspection)
 - [x] State transitions logged correctly
 - [x] Final position within goal zone
-
----
-
-## 📝 Author
-
-**[Nama Kamu]**  
-Electronics Engineering Student | Robotics & Control Systems  
-[adrymmp@gmail / LinkedIn / Portfolio]
-
----
-
-## 📄 License
-
-This project is open source and available under the **MIT License** - see LICENSE file for details.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs via GitHub Issues
-- Suggest improvements
-- Submit pull requests
-
----
-
-## 📞 Contact & Questions
-
-Have questions about the implementation? Feel free to reach out or open an issue on GitHub.
 
 ---
 
